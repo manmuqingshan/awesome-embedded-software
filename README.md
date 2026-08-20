@@ -65,6 +65,7 @@ Permanent URL to this list: https://github.com/iDoka/awesome-embedded-software
   * [USB](#usb)
   * [Flash](#flash)
   * [CAN bus](#can-bus)
+  * [Sensors](#sensors)
 * [Others](#others)
   * [Thread management](#thread-management)
   * [Bootloaders](#bootloaders)
@@ -496,7 +497,9 @@ Computer Vision
 * [Canbus-Message](https://github.com/ReFil/Canbus-Message) - CAN message assembly and disassembly library for teensy & stm32.
 * [CanBoot](https://github.com/Arksine/CanBoot) -  Can Bootloader for MCUs (Currently lpc176x, stm32 and rp2040 MCUs are supported).
 
+### Sensors
 
+* [non-blocking-ds18B20-driver-for-stm32f103c8t6](https://github.com/a5021/non-blocking-ds18B20-driver-for-stm32f103c8t6) - Bare-metal, register-level DS18B20 (1-Wire) temperature driver for STM32; TIM1+DMA hardware-timed, non-blocking, interrupt-free, RTOS-agnostic, minimal CPU overhead.
 
 ## Others
 
