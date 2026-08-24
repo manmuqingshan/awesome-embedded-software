@@ -499,7 +499,7 @@ Computer Vision
 
 ### Sensors
 
-* [non-blocking-ds18B20-driver-for-stm32f103c8t6](https://github.com/a5021/non-blocking-ds18B20-driver-for-stm32f103c8t6) - Bare-metal, register-level DS18B20 (1-Wire) temperature driver for STM32; TIM1+DMA hardware-timed, non-blocking, interrupt-free, RTOS-agnostic, minimal CPU overhead.
+* [stm32-async-1wire](https://github.com/a5021/stm32-async-1wire) - Non-blocking, register-level 1-Wire master for STM32 (DS18B20 temperature driver on top). Hardware-timed (TIM1+DMA, DMAMUX on G0), interrupt-free, RTOS-agnostic; header-only backends for STM32F1/F0/G0; hardware-validated on Blue Pill (F103) and STM32G031.
 
 ## Others
 
